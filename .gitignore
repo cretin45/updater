@@ -3,6 +3,10 @@ __pycache__
 
 app.cfg
 devices_local.json
+roms
+updater.conf
+updater.wsgi
+updater_uwsgi.ini
 
 #virtualenv
 bin
@@ -11,3 +15,5 @@ include
 share
 local
 pip-selfcheck.json
+venv
+
